@@ -9,7 +9,7 @@
 
 1. [오늘의 학습 과제 (GitHub Issues)](https://github.com/high-risk-gambler/road-to-fps-engineer/issues)
 2. [전체 12개월 로드맵](ROADMAP.md)
-3. 첫 4주: [W01](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/3) → [W02](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/4) → [W03](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/5) → [W04](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/6)
+3. 첫 4주(2주 순수 C++ → 2주 UE5 + C++·CS 병행): [W01](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/3) → [W02](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/4) → [W03](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/5) → [W04](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/6)
 
 ## 공부하는 방식
 
