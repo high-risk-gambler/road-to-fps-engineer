@@ -9,7 +9,7 @@
 
 1. [오늘의 학습 과제 (GitHub Issues)](https://github.com/high-risk-gambler/road-to-fps-engineer/issues)
 2. [전체 12개월 로드맵](ROADMAP.md)
-3. 첫 4주: [Day 01](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/1) → [Sprint 2](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/7) → [Sprint 3](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/8) → [Sprint 4](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/9)
+3. 첫 4주: [W01](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/3) → [W02](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/4) → [W03](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/5) → [W04](https://github.com/high-risk-gambler/road-to-fps-engineer/issues/6)
 
 ## 공부하는 방식
 
@@ -18,6 +18,16 @@
 - **매월 시연:** 작더라도 직접 플레이하거나 실행할 수 있는 결과물을 만든다.
 - **주간 계획:** 1년 목표는 유지하되 상세 TODO는 최근 4주만 확정하고 주간 회고로 조정한다.
 - **진척 판단:** 공부 시간과 책 페이지 수보다 빌드·테스트·설명 가능한 결과를 우선한다.
+
+## 생성형 AI 사용 원칙 (필수)
+
+1. **모든 학습·프로젝트 코드는 내가 직접 타이핑하고 작성한다.** 생성형 AI가 작성한 완성 코드를 복사·붙여넣기하여 제출하거나 커밋하지 않는다.
+2. **생성형 AI의 주된 역할은 코드 리뷰다.** 내가 먼저 작성한 코드를 바탕으로 버그 가능성, 메모리 안전성, 설계, 성능, 테스트 누락을 검토받는다.
+3. 막히면 우선 스스로 디버깅하고 공식 문서를 확인한다. AI에는 **개념 설명, 힌트, 원인 분석, 반례, 테스트 관점**을 요청한다.
+4. AI가 제안한 해결책은 정답으로 간주하지 않는다. **내가 이해하고 검증한 뒤 내 손으로 수정**한다.
+5. AI의 도움을 받은 중요한 설계·문제 해결 과정은 학습 기록에 간단히 남긴다. 최종적으로 모든 코드를 스스로 설명할 수 있어야 한다.
+
+> 목표는 AI 없이도 설계·구현·디버깅할 수 있는 게임 프로그래머가 되는 것이다.
 
 ## 포트폴리오 증거
 
