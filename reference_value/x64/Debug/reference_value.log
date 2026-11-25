@@ -1,0 +1,6 @@
+﻿  reference_value.cpp
+D:\dev\projects\road-to-fps-engineer\reference_value\reference_value.cpp(89,6): warning C4101: 'x1' :참조되지 않은 지역 변수입니다.
+D:\dev\projects\road-to-fps-engineer\reference_value\reference_value.cpp(41,7): warning C4101: 'ptr' :참조되지 않은 지역 변수입니다.
+D:\dev\projects\road-to-fps-engineer\reference_value\reference_value.cpp(89,10): warning C4101: 'x2' :참조되지 않은 지역 변수입니다.
+D:\dev\projects\road-to-fps-engineer\reference_value\reference_value.cpp(20,1): warning C4172: 지역 변수 또는 임시 : local_var의 주소를 반환하는 중
+  reference_value.vcxproj -> D:\dev\projects\road-to-fps-engineer\x64\Debug\reference_value.exe
