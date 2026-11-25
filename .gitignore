@@ -1,1 +1,31 @@
+# Visual Studio local settings and caches
 .vs/
+*.vcxproj.user
+*.suo
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+
+# Build output and intermediate directories (at any depth)
+[Dd]ebug/
+[Rr]elease/
+[Dd]ebugPublic/
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+
+# Compiler and linker outputs outside build directories
+*.obj
+*.exe
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.pch
+*.tlog/
+*.lastbuildstate
+*.exe.recipe
