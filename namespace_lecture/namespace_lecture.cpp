@@ -7,9 +7,11 @@
 using header1::foo; //using 문을 사용해서 명시적으로 header1의 foo()를 사용하도록 지정
 
 namespace { // 익명 네임스페이스를 사용하여 이 파일에서만 접근 가능한 함수와 변수를 정의
-    int OnlyInThisFile() {}
     int only_in_this_file = 0;
+
+    int OnlyInThisFile() {return only_in_this_file;}
 }
+
 int main()
 {
     std::cout << "Hello World!" << std::endl;

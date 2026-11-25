@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\dev\\projects\\road-to-fps-engineer\\road-to-fps-engineer\\namespace_lecture\\namespace_lecture.cpp",
+        "Source": "d:\\dev\\projects\\road-to-fps-engineer\\namespace_lecture\\header2.h",
         "ProvidedModule": "",
         "Includes": [
             "d:\\dev\\visualstudio\\community\\vc\\tools\\msvc\\14.52.37025\\include\\iostream",
@@ -127,9 +127,7 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\ctype.h",
             "d:\\dev\\visualstudio\\community\\vc\\tools\\msvc\\14.52.37025\\include\\clocale",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h",
-            "d:\\dev\\visualstudio\\community\\vc\\tools\\msvc\\14.52.37025\\include\\ostream",
-            "d:\\dev\\projects\\road-to-fps-engineer\\road-to-fps-engineer\\namespace_lecture\\header1.h",
-            "d:\\dev\\projects\\road-to-fps-engineer\\road-to-fps-engineer\\namespace_lecture\\header2.h"
+            "d:\\dev\\visualstudio\\community\\vc\\tools\\msvc\\14.52.37025\\include\\ostream"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
