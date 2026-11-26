@@ -103,10 +103,13 @@ int main()
 	int local_value = return_local_ref(); // 지역변수의 레퍼런스를 반환하는 함수 호출
 	int& ref_local_value = return_local_ref(); // 지역변수의 레퍼런스를 반환하는 함수 호출
 	// 지역변수의 레퍼런스를 반환하는 함수는 런타임에러를 발생시킨다. 따라서 ref_local_value는 유효하지 않은 참조자가 된다.
-	
+	// dangling reference 발생
 	std::cout << "first:  " << ref_local_value << std::endl;
 	std::cout << "second: " << ref_local_value << std::endl;
 	// 이상한 값을 출력시킴
+	// release 버전에서는 10인데 디버깅 버전에서는 - 값 출력됨. 이유는 디버깅 버전에서는 지역변수의 메모리 공간을 초기화하지 않기 때문에 이상한 값이 출력된다.
+
+
 
 	return 0;
 }
